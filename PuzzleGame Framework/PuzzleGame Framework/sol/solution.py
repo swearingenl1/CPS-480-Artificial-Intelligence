@@ -6,14 +6,7 @@
 
 # here you need to implement the Iterative Deepening Search Method
 def iterativeDeepening(puzzle):
-
-    # Find "8" position
-
-    # Successor function - possible child states
     list = []
-    print('Iterative Deepening')
-
-    # Return the path
     return list
 
 
