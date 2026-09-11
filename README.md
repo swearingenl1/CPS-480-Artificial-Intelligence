@@ -1,4 +1,4 @@
-# CPS490 - Artificial Intelligence
+# CPS480 - Artificial Intelligence
 
 ### Instructor: Dr. Phu Phung
 
