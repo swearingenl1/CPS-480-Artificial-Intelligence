@@ -8,8 +8,8 @@
 def iterativeDeepening(puzzle):
     list = []
     return list
-
-
+ 
+ 
 # This will be for next project
 def astar(puzzle):
     list = []
