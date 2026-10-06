@@ -177,7 +177,7 @@ class Puzzle:
                             solve_button.draw((255, 255, 0))
                             solve_button2.draw((255, 255, 0))
                             self.generate_puzzle.draw_puzzle_animate(self.puzzle_numbers, index2, index1, Key)
-                            self.highlight.move_count("Moves: %s" % str(i))
+                            self.highlight.move_count("Moves: %s" % str(i+1))
                             pygame.display.update()
                             time.sleep(1)
                         if (self.puzzle_numbers == [0, 1, 2, 3, 4, 5, 6, 7, 8]):
